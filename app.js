@@ -1,0 +1,1 @@
+const max= prompt("Enter the maximum number ")
